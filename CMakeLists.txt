@@ -3,6 +3,6 @@ project(untitled)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(dealCards main.cpp
+add_executable(untitled main.cpp)
         poker/PokerType.h
         poker/PokerVal.h)
